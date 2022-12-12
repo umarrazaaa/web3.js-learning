@@ -1,0 +1,23 @@
+{
+  "name": "web3.js-training",
+  "version": "1.0.0",
+  "description": "Learning web3.js from Dapp University and other online resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/umarrazaaa/web3.js-learning.git"
+  },
+  "author": "umar raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umarrazaaa/web3.js-learning/issues"
+  },
+  "homepage": "https://github.com/umarrazaaa/web3.js-learning#readme",
+  "dependencies": {
+    "alchemy-sdk": "^2.2.3",
+    "web3": "^1.8.1"
+  }
+}
